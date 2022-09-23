@@ -15,3 +15,4 @@ models to return the canonical URL for the object.`
 to index, containing both the title and date of the post.`
  - Recommending posts by email
  - Creating a comment system
+ - Adding the tagging functionality
