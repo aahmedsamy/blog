@@ -14,3 +14,4 @@ models to return the canonical URL for the object.`
 /blog/2022/1/1/some-slug-string/ . We will provide search engines with friendly URLs
 to index, containing both the title and date of the post.`
  - Recommending posts by email
+ - Creating a comment system
