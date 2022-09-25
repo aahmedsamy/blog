@@ -18,3 +18,4 @@ to index, containing both the title and date of the post.`
  - Adding the tagging functionality
  - Retrieving posts by similarity
  - Adding a sitemap to the site
+ - Creating feeds for blog posts
