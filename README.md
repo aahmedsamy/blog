@@ -17,4 +17,4 @@ to index, containing both the title and date of the post.`
  - Creating a comment system
  - Adding the tagging functionality
  - Retrieving posts by similarity
-   - 
+ - Adding a sitemap to the site
