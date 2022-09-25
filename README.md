@@ -1,4 +1,4 @@
-# blog
+# blog (for practicing purpose)
 
 # Technical Notes
  - Using canonical URLs for models
