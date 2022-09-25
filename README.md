@@ -19,3 +19,12 @@ to index, containing both the title and date of the post.`
  - Retrieving posts by similarity
  - Adding a sitemap to the site
  - Creating feeds for blog posts
+ - Adding full-text search to the blog
+   - Stemming and ranking results
+     - Stemming is the process of reducing words to their word stem, base, or root form. Stemming is used
+by search engines to reduce indexed words to their stem, and to be able to match inflected or derived
+words. For example, the words “music”, “musical” and “musicality” can be considered similar words
+by a search engine. The stemming process normalizes each search token into a lexeme, a unit of
+lexical meaning that underlies a set of words that are related through inflection. The words “music”,
+“musical” and “musicality” would convert to “music” when creating a search query.
+   - Searching with trigram similarity
